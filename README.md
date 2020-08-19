@@ -1,15 +1,5 @@
-# LibDialogFragment
-The library of DialogFragment.
-
-# ScreenCapture
-![](https://github.com/rhinoSp/LibDialogFragment/blob/master/ScreenCapture/ScreenCapture1.png)
-![](https://github.com/rhinoSp/LibDialogFragment/blob/master/ScreenCapture/ScreenCapture2.png)
-![](https://github.com/rhinoSp/LibDialogFragment/blob/master/ScreenCapture/ScreenCapture3.png)
-![](https://github.com/rhinoSp/LibDialogFragment/blob/master/ScreenCapture/ScreenCapture4.png)
-![](https://github.com/rhinoSp/LibDialogFragment/blob/master/ScreenCapture/ScreenCapture5.png)
-![](https://github.com/rhinoSp/LibDialogFragment/blob/master/ScreenCapture/ScreenCapture6.png)
-![](https://github.com/rhinoSp/LibDialogFragment/blob/master/ScreenCapture/ScreenCapture7.png)
-![](https://github.com/rhinoSp/LibDialogFragment/blob/master/ScreenCapture/ScreenCapture8.png)
+# LibEdgeSlide
+The library of edge slide.
 
 # How to
 To get a Git project into your build:
@@ -27,7 +17,7 @@ allprojects {
 **Step 2**. Add the dependency<br>
 ```
 dependencies {
-    implementation 'com.github.rhinoSp:LibDialogFragment:v1.0.0'
+    implementation 'com.github.rhinoSp:LibEdgeSlide:v1.0.1'
 }
 ```
 
